@@ -1,5 +1,8 @@
-Olá!
+Olï¿½!
 
-Através dessa pasta venho trazer alguns ensinamentos sobre a linguagem C
+Atravï¿½s dessa pasta venho trazer alguns ensinamentos sobre a linguagem C
 
 Espero que eu possa ajudar!
+
+Atenciosamente,
+Luis Felipe Demarchi
