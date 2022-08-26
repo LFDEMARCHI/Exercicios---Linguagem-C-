@@ -1,6 +1,6 @@
-Ol�!
+Oi!
 
-Atrav�s dessa pasta venho trazer alguns ensinamentos sobre a linguagem C
+Nessa pasta venho trazer alguns ensinamentos sobre a linguagem C
 
 Espero que eu possa ajudar!
 
